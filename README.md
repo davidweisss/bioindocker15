@@ -155,7 +155,7 @@ I have made a start. Please contribute.
 - *Can be hard for informaticians if code is bad, dependency heavy, undocumented or requires very specific versions of OS's and software etc*
 - Often Suffers from: *"But It works on my Machine??"*  
 
-
+[Link to a recent survey](http://figshare.com/articles/Bioinformatics_infrastructure_and_training_summary/1572287) asking bioinformaticians what problems they are facing, in general, but some insight on informatics pipelines issues specifically. The survey is quite large with 272 entries.
 
 Some random thoughts...  
 **Only trusted users should be allowed 1) Access to HPC and 2) To control your Docker daemon**.  
